@@ -565,7 +565,7 @@ input[type="submit"]:hover {
 
     .landing-text h1 {
         font-size: 6rem;
-        font-family: 'Localghost', 'Roboto', sans-serif;
+        font-family: 'Localghost', sans-serif;
         background: linear-gradient(to top,  #00d4ff, #e6e5cf);
         -webkit-background-clip: text;
         -webkit-text-fill-color: transparent;

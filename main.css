@@ -1,8 +1,5 @@
-@font-face {
-    /* Used to add a custom font to the CSS. Highly compatible */
-    font-family: TheHistoriaWebFont; /*Your Name for the font*/
-    src: url("../fonts/the_historia-webfont.woff") format("woff"), url("../fonts/the_historia-webfont.woff")  format("truetype"); /*Direct link to the Historia Web Font*/
-}
+
+@import url('https://fonts.googleapis.com/css2?family=Asap:wght@400;500;700&family=Great+Vibes&display=swap');
 
 /*Start global*/
 * {
@@ -15,6 +12,10 @@ html {
     font-size: 10px;
     color: #514e2b;
     font-family:'Roboto', sans-serif;
+}
+
+title {
+    font-family: 'Great Vibes';
 }
 
 body {
